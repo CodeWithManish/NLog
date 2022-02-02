@@ -1,0 +1,6 @@
+﻿2022-02-02 15:59:43.6846|INFO|NLogProject.Nlog|Sum()
+2022-02-02 15:59:43.7040|DEBUG|NLogProject.Nlog|Debug Method sum()
+2022-02-02 16:01:02.9239|INFO|NLogProject.Nlog|Sum()
+2022-02-02 16:01:02.9359|DEBUG|NLogProject.Nlog|Debug Method sum()
+2022-02-02 16:21:50.6545|INFO|NLogProject.Nlog|Sum()
+2022-02-02 16:21:50.6695|DEBUG|NLogProject.Nlog|Debug Method sum()
